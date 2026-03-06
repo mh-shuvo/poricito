@@ -1,0 +1,1892 @@
+{
+  "district": {
+    "name": "Feni",
+    "slug": "feni",
+    "thanas": [
+      {
+        "name": "Feni Sadar",
+        "slug": "feni-sadar",
+        "unions": [
+          {
+            "name": "Dhalia",
+            "slug": "dhalia",
+            "wards": [
+              {
+                "name": "Ward 1",
+                "slug": "ward-1"
+              },
+              {
+                "name": "Ward 2",
+                "slug": "ward-2"
+              },
+              {
+                "name": "Ward 3",
+                "slug": "ward-3"
+              },
+              {
+                "name": "Ward 4",
+                "slug": "ward-4"
+              },
+              {
+                "name": "Ward 5",
+                "slug": "ward-5"
+              },
+              {
+                "name": "Ward 6",
+                "slug": "ward-6"
+              },
+              {
+                "name": "Ward 7",
+                "slug": "ward-7"
+              },
+              {
+                "name": "Ward 8",
+                "slug": "ward-8"
+              },
+              {
+                "name": "Ward 9",
+                "slug": "ward-9"
+              }
+            ]
+          },
+          {
+            "name": "Kalidah",
+            "slug": "kalidah",
+            "wards": [
+              {
+                "name": "Ward 1",
+                "slug": "ward-1"
+              },
+              {
+                "name": "Ward 2",
+                "slug": "ward-2"
+              },
+              {
+                "name": "Ward 3",
+                "slug": "ward-3"
+              },
+              {
+                "name": "Ward 4",
+                "slug": "ward-4"
+              },
+              {
+                "name": "Ward 5",
+                "slug": "ward-5"
+              },
+              {
+                "name": "Ward 6",
+                "slug": "ward-6"
+              },
+              {
+                "name": "Ward 7",
+                "slug": "ward-7"
+              },
+              {
+                "name": "Ward 8",
+                "slug": "ward-8"
+              },
+              {
+                "name": "Ward 9",
+                "slug": "ward-9"
+              }
+            ]
+          },
+          {
+            "name": "Panchgachia",
+            "slug": "panchgachia",
+            "wards": [
+              {
+                "name": "Ward 1",
+                "slug": "ward-1"
+              },
+              {
+                "name": "Ward 2",
+                "slug": "ward-2"
+              },
+              {
+                "name": "Ward 3",
+                "slug": "ward-3"
+              },
+              {
+                "name": "Ward 4",
+                "slug": "ward-4"
+              },
+              {
+                "name": "Ward 5",
+                "slug": "ward-5"
+              },
+              {
+                "name": "Ward 6",
+                "slug": "ward-6"
+              },
+              {
+                "name": "Ward 7",
+                "slug": "ward-7"
+              },
+              {
+                "name": "Ward 8",
+                "slug": "ward-8"
+              },
+              {
+                "name": "Ward 9",
+                "slug": "ward-9"
+              }
+            ]
+          },
+          {
+            "name": "Sarishadi",
+            "slug": "sarishadi",
+            "wards": [
+              {
+                "name": "Ward 1",
+                "slug": "ward-1"
+              },
+              {
+                "name": "Ward 2",
+                "slug": "ward-2"
+              },
+              {
+                "name": "Ward 3",
+                "slug": "ward-3"
+              },
+              {
+                "name": "Ward 4",
+                "slug": "ward-4"
+              },
+              {
+                "name": "Ward 5",
+                "slug": "ward-5"
+              },
+              {
+                "name": "Ward 6",
+                "slug": "ward-6"
+              },
+              {
+                "name": "Ward 7",
+                "slug": "ward-7"
+              },
+              {
+                "name": "Ward 8",
+                "slug": "ward-8"
+              },
+              {
+                "name": "Ward 9",
+                "slug": "ward-9"
+              }
+            ]
+          },
+          {
+            "name": "Fazilpur",
+            "slug": "fazilpur",
+            "wards": [
+              {
+                "name": "Ward 1",
+                "slug": "ward-1"
+              },
+              {
+                "name": "Ward 2",
+                "slug": "ward-2"
+              },
+              {
+                "name": "Ward 3",
+                "slug": "ward-3"
+              },
+              {
+                "name": "Ward 4",
+                "slug": "ward-4"
+              },
+              {
+                "name": "Ward 5",
+                "slug": "ward-5"
+              },
+              {
+                "name": "Ward 6",
+                "slug": "ward-6"
+              },
+              {
+                "name": "Ward 7",
+                "slug": "ward-7"
+              },
+              {
+                "name": "Ward 8",
+                "slug": "ward-8"
+              },
+              {
+                "name": "Ward 9",
+                "slug": "ward-9"
+              }
+            ]
+          },
+          {
+            "name": "Farhadnagar",
+            "slug": "farhadnagar",
+            "wards": [
+              {
+                "name": "Ward 1",
+                "slug": "ward-1"
+              },
+              {
+                "name": "Ward 2",
+                "slug": "ward-2"
+              },
+              {
+                "name": "Ward 3",
+                "slug": "ward-3"
+              },
+              {
+                "name": "Ward 4",
+                "slug": "ward-4"
+              },
+              {
+                "name": "Ward 5",
+                "slug": "ward-5"
+              },
+              {
+                "name": "Ward 6",
+                "slug": "ward-6"
+              },
+              {
+                "name": "Ward 7",
+                "slug": "ward-7"
+              },
+              {
+                "name": "Ward 8",
+                "slug": "ward-8"
+              },
+              {
+                "name": "Ward 9",
+                "slug": "ward-9"
+              }
+            ]
+          },
+          {
+            "name": "Lemuya",
+            "slug": "lemuya",
+            "wards": [
+              {
+                "name": "Ward 1",
+                "slug": "ward-1"
+              },
+              {
+                "name": "Ward 2",
+                "slug": "ward-2"
+              },
+              {
+                "name": "Ward 3",
+                "slug": "ward-3"
+              },
+              {
+                "name": "Ward 4",
+                "slug": "ward-4"
+              },
+              {
+                "name": "Ward 5",
+                "slug": "ward-5"
+              },
+              {
+                "name": "Ward 6",
+                "slug": "ward-6"
+              },
+              {
+                "name": "Ward 7",
+                "slug": "ward-7"
+              },
+              {
+                "name": "Ward 8",
+                "slug": "ward-8"
+              },
+              {
+                "name": "Ward 9",
+                "slug": "ward-9"
+              }
+            ]
+          },
+          {
+            "name": "Baligaon",
+            "slug": "baligaon",
+            "wards": [
+              {
+                "name": "Ward 1",
+                "slug": "ward-1"
+              },
+              {
+                "name": "Ward 2",
+                "slug": "ward-2"
+              },
+              {
+                "name": "Ward 3",
+                "slug": "ward-3"
+              },
+              {
+                "name": "Ward 4",
+                "slug": "ward-4"
+              },
+              {
+                "name": "Ward 5",
+                "slug": "ward-5"
+              },
+              {
+                "name": "Ward 6",
+                "slug": "ward-6"
+              },
+              {
+                "name": "Ward 7",
+                "slug": "ward-7"
+              },
+              {
+                "name": "Ward 8",
+                "slug": "ward-8"
+              },
+              {
+                "name": "Ward 9",
+                "slug": "ward-9"
+              }
+            ]
+          },
+          {
+            "name": "Motobi",
+            "slug": "motobi",
+            "wards": [
+              {
+                "name": "Ward 1",
+                "slug": "ward-1"
+              },
+              {
+                "name": "Ward 2",
+                "slug": "ward-2"
+              },
+              {
+                "name": "Ward 3",
+                "slug": "ward-3"
+              },
+              {
+                "name": "Ward 4",
+                "slug": "ward-4"
+              },
+              {
+                "name": "Ward 5",
+                "slug": "ward-5"
+              },
+              {
+                "name": "Ward 6",
+                "slug": "ward-6"
+              },
+              {
+                "name": "Ward 7",
+                "slug": "ward-7"
+              },
+              {
+                "name": "Ward 8",
+                "slug": "ward-8"
+              },
+              {
+                "name": "Ward 9",
+                "slug": "ward-9"
+              }
+            ]
+          },
+          {
+            "name": "Dharmapur",
+            "slug": "dharmapur",
+            "wards": [
+              {
+                "name": "Ward 1",
+                "slug": "ward-1"
+              },
+              {
+                "name": "Ward 2",
+                "slug": "ward-2"
+              },
+              {
+                "name": "Ward 3",
+                "slug": "ward-3"
+              },
+              {
+                "name": "Ward 4",
+                "slug": "ward-4"
+              },
+              {
+                "name": "Ward 5",
+                "slug": "ward-5"
+              },
+              {
+                "name": "Ward 6",
+                "slug": "ward-6"
+              },
+              {
+                "name": "Ward 7",
+                "slug": "ward-7"
+              },
+              {
+                "name": "Ward 8",
+                "slug": "ward-8"
+              },
+              {
+                "name": "Ward 9",
+                "slug": "ward-9"
+              }
+            ]
+          },
+          {
+            "name": "Kazirbag",
+            "slug": "kazirbag",
+            "wards": [
+              {
+                "name": "Ward 1",
+                "slug": "ward-1"
+              },
+              {
+                "name": "Ward 2",
+                "slug": "ward-2"
+              },
+              {
+                "name": "Ward 3",
+                "slug": "ward-3"
+              },
+              {
+                "name": "Ward 4",
+                "slug": "ward-4"
+              },
+              {
+                "name": "Ward 5",
+                "slug": "ward-5"
+              },
+              {
+                "name": "Ward 6",
+                "slug": "ward-6"
+              },
+              {
+                "name": "Ward 7",
+                "slug": "ward-7"
+              },
+              {
+                "name": "Ward 8",
+                "slug": "ward-8"
+              },
+              {
+                "name": "Ward 9",
+                "slug": "ward-9"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Daganbhuiyan",
+        "slug": "daganbhuiyan",
+        "unions": [
+          {
+            "name": "Rajapur",
+            "slug": "rajapur",
+            "wards": [
+              {
+                "name": "Ward 1",
+                "slug": "ward-1"
+              },
+              {
+                "name": "Ward 2",
+                "slug": "ward-2"
+              },
+              {
+                "name": "Ward 3",
+                "slug": "ward-3"
+              },
+              {
+                "name": "Ward 4",
+                "slug": "ward-4"
+              },
+              {
+                "name": "Ward 5",
+                "slug": "ward-5"
+              },
+              {
+                "name": "Ward 6",
+                "slug": "ward-6"
+              },
+              {
+                "name": "Ward 7",
+                "slug": "ward-7"
+              },
+              {
+                "name": "Ward 8",
+                "slug": "ward-8"
+              },
+              {
+                "name": "Ward 9",
+                "slug": "ward-9"
+              }
+            ]
+          },
+          {
+            "name": "Yakubpur",
+            "slug": "yakubpur",
+            "wards": [
+              {
+                "name": "Ward 1",
+                "slug": "ward-1"
+              },
+              {
+                "name": "Ward 2",
+                "slug": "ward-2"
+              },
+              {
+                "name": "Ward 3",
+                "slug": "ward-3"
+              },
+              {
+                "name": "Ward 4",
+                "slug": "ward-4"
+              },
+              {
+                "name": "Ward 5",
+                "slug": "ward-5"
+              },
+              {
+                "name": "Ward 6",
+                "slug": "ward-6"
+              },
+              {
+                "name": "Ward 7",
+                "slug": "ward-7"
+              },
+              {
+                "name": "Ward 8",
+                "slug": "ward-8"
+              },
+              {
+                "name": "Ward 9",
+                "slug": "ward-9"
+              }
+            ]
+          },
+          {
+            "name": "Matubhuiyan",
+            "slug": "matubhuiyan",
+            "wards": [
+              {
+                "name": "Ward 1",
+                "slug": "ward-1"
+              },
+              {
+                "name": "Ward 2",
+                "slug": "ward-2"
+              },
+              {
+                "name": "Ward 3",
+                "slug": "ward-3"
+              },
+              {
+                "name": "Ward 4",
+                "slug": "ward-4"
+              },
+              {
+                "name": "Ward 5",
+                "slug": "ward-5"
+              },
+              {
+                "name": "Ward 6",
+                "slug": "ward-6"
+              },
+              {
+                "name": "Ward 7",
+                "slug": "ward-7"
+              },
+              {
+                "name": "Ward 8",
+                "slug": "ward-8"
+              },
+              {
+                "name": "Ward 9",
+                "slug": "ward-9"
+              }
+            ]
+          },
+          {
+            "name": "Darbespur",
+            "slug": "darbespur",
+            "wards": [
+              {
+                "name": "Ward 1",
+                "slug": "ward-1"
+              },
+              {
+                "name": "Ward 2",
+                "slug": "ward-2"
+              },
+              {
+                "name": "Ward 3",
+                "slug": "ward-3"
+              },
+              {
+                "name": "Ward 4",
+                "slug": "ward-4"
+              },
+              {
+                "name": "Ward 5",
+                "slug": "ward-5"
+              },
+              {
+                "name": "Ward 6",
+                "slug": "ward-6"
+              },
+              {
+                "name": "Ward 7",
+                "slug": "ward-7"
+              },
+              {
+                "name": "Ward 8",
+                "slug": "ward-8"
+              },
+              {
+                "name": "Ward 9",
+                "slug": "ward-9"
+              }
+            ]
+          },
+          {
+            "name": "Purba Chandrapur",
+            "slug": "purba-chandrapur",
+            "wards": [
+              {
+                "name": "Ward 1",
+                "slug": "ward-1"
+              },
+              {
+                "name": "Ward 2",
+                "slug": "ward-2"
+              },
+              {
+                "name": "Ward 3",
+                "slug": "ward-3"
+              },
+              {
+                "name": "Ward 4",
+                "slug": "ward-4"
+              },
+              {
+                "name": "Ward 5",
+                "slug": "ward-5"
+              },
+              {
+                "name": "Ward 6",
+                "slug": "ward-6"
+              },
+              {
+                "name": "Ward 7",
+                "slug": "ward-7"
+              },
+              {
+                "name": "Ward 8",
+                "slug": "ward-8"
+              },
+              {
+                "name": "Ward 9",
+                "slug": "ward-9"
+              }
+            ]
+          },
+          {
+            "name": "Ramnagar",
+            "slug": "ramnagar",
+            "wards": [
+              {
+                "name": "Ward 1",
+                "slug": "ward-1"
+              },
+              {
+                "name": "Ward 2",
+                "slug": "ward-2"
+              },
+              {
+                "name": "Ward 3",
+                "slug": "ward-3"
+              },
+              {
+                "name": "Ward 4",
+                "slug": "ward-4"
+              },
+              {
+                "name": "Ward 5",
+                "slug": "ward-5"
+              },
+              {
+                "name": "Ward 6",
+                "slug": "ward-6"
+              },
+              {
+                "name": "Ward 7",
+                "slug": "ward-7"
+              },
+              {
+                "name": "Ward 8",
+                "slug": "ward-8"
+              },
+              {
+                "name": "Ward 9",
+                "slug": "ward-9"
+              }
+            ]
+          },
+          {
+            "name": "Puratan Daganbhuiyan",
+            "slug": "puratan-daganbhuiyan",
+            "wards": [
+              {
+                "name": "Ward 1",
+                "slug": "ward-1"
+              },
+              {
+                "name": "Ward 2",
+                "slug": "ward-2"
+              },
+              {
+                "name": "Ward 3",
+                "slug": "ward-3"
+              },
+              {
+                "name": "Ward 4",
+                "slug": "ward-4"
+              },
+              {
+                "name": "Ward 5",
+                "slug": "ward-5"
+              },
+              {
+                "name": "Ward 6",
+                "slug": "ward-6"
+              },
+              {
+                "name": "Ward 7",
+                "slug": "ward-7"
+              },
+              {
+                "name": "Ward 8",
+                "slug": "ward-8"
+              },
+              {
+                "name": "Ward 9",
+                "slug": "ward-9"
+              }
+            ]
+          },
+          {
+            "name": "Sindurpur",
+            "slug": "sindurpur",
+            "wards": [
+              {
+                "name": "Ward 1",
+                "slug": "ward-1"
+              },
+              {
+                "name": "Ward 2",
+                "slug": "ward-2"
+              },
+              {
+                "name": "Ward 3",
+                "slug": "ward-3"
+              },
+              {
+                "name": "Ward 4",
+                "slug": "ward-4"
+              },
+              {
+                "name": "Ward 5",
+                "slug": "ward-5"
+              },
+              {
+                "name": "Ward 6",
+                "slug": "ward-6"
+              },
+              {
+                "name": "Ward 7",
+                "slug": "ward-7"
+              },
+              {
+                "name": "Ward 8",
+                "slug": "ward-8"
+              },
+              {
+                "name": "Ward 9",
+                "slug": "ward-9"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sonagazi",
+        "slug": "sonagazi",
+        "unions": [
+          {
+            "name": "Char Chandia",
+            "slug": "char-chandia",
+            "wards": [
+              {
+                "name": "Ward 1",
+                "slug": "ward-1"
+              },
+              {
+                "name": "Ward 2",
+                "slug": "ward-2"
+              },
+              {
+                "name": "Ward 3",
+                "slug": "ward-3"
+              },
+              {
+                "name": "Ward 4",
+                "slug": "ward-4"
+              },
+              {
+                "name": "Ward 5",
+                "slug": "ward-5"
+              },
+              {
+                "name": "Ward 6",
+                "slug": "ward-6"
+              },
+              {
+                "name": "Ward 7",
+                "slug": "ward-7"
+              },
+              {
+                "name": "Ward 8",
+                "slug": "ward-8"
+              },
+              {
+                "name": "Ward 9",
+                "slug": "ward-9"
+              }
+            ]
+          },
+          {
+            "name": "Char Darbesh",
+            "slug": "char-darbesh",
+            "wards": [
+              {
+                "name": "Ward 1",
+                "slug": "ward-1"
+              },
+              {
+                "name": "Ward 2",
+                "slug": "ward-2"
+              },
+              {
+                "name": "Ward 3",
+                "slug": "ward-3"
+              },
+              {
+                "name": "Ward 4",
+                "slug": "ward-4"
+              },
+              {
+                "name": "Ward 5",
+                "slug": "ward-5"
+              },
+              {
+                "name": "Ward 6",
+                "slug": "ward-6"
+              },
+              {
+                "name": "Ward 7",
+                "slug": "ward-7"
+              },
+              {
+                "name": "Ward 8",
+                "slug": "ward-8"
+              },
+              {
+                "name": "Ward 9",
+                "slug": "ward-9"
+              }
+            ]
+          },
+          {
+            "name": "Char Majlishpur",
+            "slug": "char-majlishpur",
+            "wards": [
+              {
+                "name": "Ward 1",
+                "slug": "ward-1"
+              },
+              {
+                "name": "Ward 2",
+                "slug": "ward-2"
+              },
+              {
+                "name": "Ward 3",
+                "slug": "ward-3"
+              },
+              {
+                "name": "Ward 4",
+                "slug": "ward-4"
+              },
+              {
+                "name": "Ward 5",
+                "slug": "ward-5"
+              },
+              {
+                "name": "Ward 6",
+                "slug": "ward-6"
+              },
+              {
+                "name": "Ward 7",
+                "slug": "ward-7"
+              },
+              {
+                "name": "Ward 8",
+                "slug": "ward-8"
+              },
+              {
+                "name": "Ward 9",
+                "slug": "ward-9"
+              }
+            ]
+          },
+          {
+            "name": "Motiganj",
+            "slug": "motiganj",
+            "wards": [
+              {
+                "name": "Ward 1",
+                "slug": "ward-1"
+              },
+              {
+                "name": "Ward 2",
+                "slug": "ward-2"
+              },
+              {
+                "name": "Ward 3",
+                "slug": "ward-3"
+              },
+              {
+                "name": "Ward 4",
+                "slug": "ward-4"
+              },
+              {
+                "name": "Ward 5",
+                "slug": "ward-5"
+              },
+              {
+                "name": "Ward 6",
+                "slug": "ward-6"
+              },
+              {
+                "name": "Ward 7",
+                "slug": "ward-7"
+              },
+              {
+                "name": "Ward 8",
+                "slug": "ward-8"
+              },
+              {
+                "name": "Ward 9",
+                "slug": "ward-9"
+              }
+            ]
+          },
+          {
+            "name": "Amirabad",
+            "slug": "amirabad",
+            "wards": [
+              {
+                "name": "Ward 1",
+                "slug": "ward-1"
+              },
+              {
+                "name": "Ward 2",
+                "slug": "ward-2"
+              },
+              {
+                "name": "Ward 3",
+                "slug": "ward-3"
+              },
+              {
+                "name": "Ward 4",
+                "slug": "ward-4"
+              },
+              {
+                "name": "Ward 5",
+                "slug": "ward-5"
+              },
+              {
+                "name": "Ward 6",
+                "slug": "ward-6"
+              },
+              {
+                "name": "Ward 7",
+                "slug": "ward-7"
+              },
+              {
+                "name": "Ward 8",
+                "slug": "ward-8"
+              },
+              {
+                "name": "Ward 9",
+                "slug": "ward-9"
+              }
+            ]
+          },
+          {
+            "name": "Mangal Kandi",
+            "slug": "mangal-kandi",
+            "wards": [
+              {
+                "name": "Ward 1",
+                "slug": "ward-1"
+              },
+              {
+                "name": "Ward 2",
+                "slug": "ward-2"
+              },
+              {
+                "name": "Ward 3",
+                "slug": "ward-3"
+              },
+              {
+                "name": "Ward 4",
+                "slug": "ward-4"
+              },
+              {
+                "name": "Ward 5",
+                "slug": "ward-5"
+              },
+              {
+                "name": "Ward 6",
+                "slug": "ward-6"
+              },
+              {
+                "name": "Ward 7",
+                "slug": "ward-7"
+              },
+              {
+                "name": "Ward 8",
+                "slug": "ward-8"
+              },
+              {
+                "name": "Ward 9",
+                "slug": "ward-9"
+              }
+            ]
+          },
+          {
+            "name": "Sonagazi",
+            "slug": "sonagazi",
+            "wards": [
+              {
+                "name": "Ward 1",
+                "slug": "ward-1"
+              },
+              {
+                "name": "Ward 2",
+                "slug": "ward-2"
+              },
+              {
+                "name": "Ward 3",
+                "slug": "ward-3"
+              },
+              {
+                "name": "Ward 4",
+                "slug": "ward-4"
+              },
+              {
+                "name": "Ward 5",
+                "slug": "ward-5"
+              },
+              {
+                "name": "Ward 6",
+                "slug": "ward-6"
+              },
+              {
+                "name": "Ward 7",
+                "slug": "ward-7"
+              },
+              {
+                "name": "Ward 8",
+                "slug": "ward-8"
+              },
+              {
+                "name": "Ward 9",
+                "slug": "ward-9"
+              }
+            ]
+          },
+          {
+            "name": "Bogadana",
+            "slug": "bogadana",
+            "wards": [
+              {
+                "name": "Ward 1",
+                "slug": "ward-1"
+              },
+              {
+                "name": "Ward 2",
+                "slug": "ward-2"
+              },
+              {
+                "name": "Ward 3",
+                "slug": "ward-3"
+              },
+              {
+                "name": "Ward 4",
+                "slug": "ward-4"
+              },
+              {
+                "name": "Ward 5",
+                "slug": "ward-5"
+              },
+              {
+                "name": "Ward 6",
+                "slug": "ward-6"
+              },
+              {
+                "name": "Ward 7",
+                "slug": "ward-7"
+              },
+              {
+                "name": "Ward 8",
+                "slug": "ward-8"
+              },
+              {
+                "name": "Ward 9",
+                "slug": "ward-9"
+              }
+            ]
+          },
+          {
+            "name": "Nawabpur",
+            "slug": "nawabpur",
+            "wards": [
+              {
+                "name": "Ward 1",
+                "slug": "ward-1"
+              },
+              {
+                "name": "Ward 2",
+                "slug": "ward-2"
+              },
+              {
+                "name": "Ward 3",
+                "slug": "ward-3"
+              },
+              {
+                "name": "Ward 4",
+                "slug": "ward-4"
+              },
+              {
+                "name": "Ward 5",
+                "slug": "ward-5"
+              },
+              {
+                "name": "Ward 6",
+                "slug": "ward-6"
+              },
+              {
+                "name": "Ward 7",
+                "slug": "ward-7"
+              },
+              {
+                "name": "Ward 8",
+                "slug": "ward-8"
+              },
+              {
+                "name": "Ward 9",
+                "slug": "ward-9"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Chhagalnaiya",
+        "slug": "chhagalnaiya",
+        "unions": [
+          {
+            "name": "Pathannagar",
+            "slug": "pathannagar",
+            "wards": [
+              {
+                "name": "Ward 1",
+                "slug": "ward-1"
+              },
+              {
+                "name": "Ward 2",
+                "slug": "ward-2"
+              },
+              {
+                "name": "Ward 3",
+                "slug": "ward-3"
+              },
+              {
+                "name": "Ward 4",
+                "slug": "ward-4"
+              },
+              {
+                "name": "Ward 5",
+                "slug": "ward-5"
+              },
+              {
+                "name": "Ward 6",
+                "slug": "ward-6"
+              },
+              {
+                "name": "Ward 7",
+                "slug": "ward-7"
+              },
+              {
+                "name": "Ward 8",
+                "slug": "ward-8"
+              },
+              {
+                "name": "Ward 9",
+                "slug": "ward-9"
+              }
+            ]
+          },
+          {
+            "name": "Mohamaya",
+            "slug": "mohamaya",
+            "wards": [
+              {
+                "name": "Ward 1",
+                "slug": "ward-1"
+              },
+              {
+                "name": "Ward 2",
+                "slug": "ward-2"
+              },
+              {
+                "name": "Ward 3",
+                "slug": "ward-3"
+              },
+              {
+                "name": "Ward 4",
+                "slug": "ward-4"
+              },
+              {
+                "name": "Ward 5",
+                "slug": "ward-5"
+              },
+              {
+                "name": "Ward 6",
+                "slug": "ward-6"
+              },
+              {
+                "name": "Ward 7",
+                "slug": "ward-7"
+              },
+              {
+                "name": "Ward 8",
+                "slug": "ward-8"
+              },
+              {
+                "name": "Ward 9",
+                "slug": "ward-9"
+              }
+            ]
+          },
+          {
+            "name": "Radhanagar",
+            "slug": "radhanagar",
+            "wards": [
+              {
+                "name": "Ward 1",
+                "slug": "ward-1"
+              },
+              {
+                "name": "Ward 2",
+                "slug": "ward-2"
+              },
+              {
+                "name": "Ward 3",
+                "slug": "ward-3"
+              },
+              {
+                "name": "Ward 4",
+                "slug": "ward-4"
+              },
+              {
+                "name": "Ward 5",
+                "slug": "ward-5"
+              },
+              {
+                "name": "Ward 6",
+                "slug": "ward-6"
+              },
+              {
+                "name": "Ward 7",
+                "slug": "ward-7"
+              },
+              {
+                "name": "Ward 8",
+                "slug": "ward-8"
+              },
+              {
+                "name": "Ward 9",
+                "slug": "ward-9"
+              }
+            ]
+          },
+          {
+            "name": "Shubhapur",
+            "slug": "shubhapur",
+            "wards": [
+              {
+                "name": "Ward 1",
+                "slug": "ward-1"
+              },
+              {
+                "name": "Ward 2",
+                "slug": "ward-2"
+              },
+              {
+                "name": "Ward 3",
+                "slug": "ward-3"
+              },
+              {
+                "name": "Ward 4",
+                "slug": "ward-4"
+              },
+              {
+                "name": "Ward 5",
+                "slug": "ward-5"
+              },
+              {
+                "name": "Ward 6",
+                "slug": "ward-6"
+              },
+              {
+                "name": "Ward 7",
+                "slug": "ward-7"
+              },
+              {
+                "name": "Ward 8",
+                "slug": "ward-8"
+              },
+              {
+                "name": "Ward 9",
+                "slug": "ward-9"
+              }
+            ]
+          },
+          {
+            "name": "Ghopal",
+            "slug": "ghopal",
+            "wards": [
+              {
+                "name": "Ward 1",
+                "slug": "ward-1"
+              },
+              {
+                "name": "Ward 2",
+                "slug": "ward-2"
+              },
+              {
+                "name": "Ward 3",
+                "slug": "ward-3"
+              },
+              {
+                "name": "Ward 4",
+                "slug": "ward-4"
+              },
+              {
+                "name": "Ward 5",
+                "slug": "ward-5"
+              },
+              {
+                "name": "Ward 6",
+                "slug": "ward-6"
+              },
+              {
+                "name": "Ward 7",
+                "slug": "ward-7"
+              },
+              {
+                "name": "Ward 8",
+                "slug": "ward-8"
+              },
+              {
+                "name": "Ward 9",
+                "slug": "ward-9"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Fulgazi",
+        "slug": "fulgazi",
+        "unions": [
+          {
+            "name": "Anandapur",
+            "slug": "anandapur",
+            "wards": [
+              {
+                "name": "Ward 1",
+                "slug": "ward-1"
+              },
+              {
+                "name": "Ward 2",
+                "slug": "ward-2"
+              },
+              {
+                "name": "Ward 3",
+                "slug": "ward-3"
+              },
+              {
+                "name": "Ward 4",
+                "slug": "ward-4"
+              },
+              {
+                "name": "Ward 5",
+                "slug": "ward-5"
+              },
+              {
+                "name": "Ward 6",
+                "slug": "ward-6"
+              },
+              {
+                "name": "Ward 7",
+                "slug": "ward-7"
+              },
+              {
+                "name": "Ward 8",
+                "slug": "ward-8"
+              },
+              {
+                "name": "Ward 9",
+                "slug": "ward-9"
+              }
+            ]
+          },
+          {
+            "name": "GM Hat",
+            "slug": "gm-hat",
+            "wards": [
+              {
+                "name": "Ward 1",
+                "slug": "ward-1"
+              },
+              {
+                "name": "Ward 2",
+                "slug": "ward-2"
+              },
+              {
+                "name": "Ward 3",
+                "slug": "ward-3"
+              },
+              {
+                "name": "Ward 4",
+                "slug": "ward-4"
+              },
+              {
+                "name": "Ward 5",
+                "slug": "ward-5"
+              },
+              {
+                "name": "Ward 6",
+                "slug": "ward-6"
+              },
+              {
+                "name": "Ward 7",
+                "slug": "ward-7"
+              },
+              {
+                "name": "Ward 8",
+                "slug": "ward-8"
+              },
+              {
+                "name": "Ward 9",
+                "slug": "ward-9"
+              }
+            ]
+          },
+          {
+            "name": "Fulgazi",
+            "slug": "fulgazi",
+            "wards": [
+              {
+                "name": "Ward 1",
+                "slug": "ward-1"
+              },
+              {
+                "name": "Ward 2",
+                "slug": "ward-2"
+              },
+              {
+                "name": "Ward 3",
+                "slug": "ward-3"
+              },
+              {
+                "name": "Ward 4",
+                "slug": "ward-4"
+              },
+              {
+                "name": "Ward 5",
+                "slug": "ward-5"
+              },
+              {
+                "name": "Ward 6",
+                "slug": "ward-6"
+              },
+              {
+                "name": "Ward 7",
+                "slug": "ward-7"
+              },
+              {
+                "name": "Ward 8",
+                "slug": "ward-8"
+              },
+              {
+                "name": "Ward 9",
+                "slug": "ward-9"
+              }
+            ]
+          },
+          {
+            "name": "Darbarpur",
+            "slug": "darbarpur",
+            "wards": [
+              {
+                "name": "Ward 1",
+                "slug": "ward-1"
+              },
+              {
+                "name": "Ward 2",
+                "slug": "ward-2"
+              },
+              {
+                "name": "Ward 3",
+                "slug": "ward-3"
+              },
+              {
+                "name": "Ward 4",
+                "slug": "ward-4"
+              },
+              {
+                "name": "Ward 5",
+                "slug": "ward-5"
+              },
+              {
+                "name": "Ward 6",
+                "slug": "ward-6"
+              },
+              {
+                "name": "Ward 7",
+                "slug": "ward-7"
+              },
+              {
+                "name": "Ward 8",
+                "slug": "ward-8"
+              },
+              {
+                "name": "Ward 9",
+                "slug": "ward-9"
+              }
+            ]
+          },
+          {
+            "name": "Munshirhat",
+            "slug": "munshirhat",
+            "wards": [
+              {
+                "name": "Ward 1",
+                "slug": "ward-1"
+              },
+              {
+                "name": "Ward 2",
+                "slug": "ward-2"
+              },
+              {
+                "name": "Ward 3",
+                "slug": "ward-3"
+              },
+              {
+                "name": "Ward 4",
+                "slug": "ward-4"
+              },
+              {
+                "name": "Ward 5",
+                "slug": "ward-5"
+              },
+              {
+                "name": "Ward 6",
+                "slug": "ward-6"
+              },
+              {
+                "name": "Ward 7",
+                "slug": "ward-7"
+              },
+              {
+                "name": "Ward 8",
+                "slug": "ward-8"
+              },
+              {
+                "name": "Ward 9",
+                "slug": "ward-9"
+              }
+            ]
+          },
+          {
+            "name": "Amzad Hat",
+            "slug": "amzad-hat",
+            "wards": [
+              {
+                "name": "Ward 1",
+                "slug": "ward-1"
+              },
+              {
+                "name": "Ward 2",
+                "slug": "ward-2"
+              },
+              {
+                "name": "Ward 3",
+                "slug": "ward-3"
+              },
+              {
+                "name": "Ward 4",
+                "slug": "ward-4"
+              },
+              {
+                "name": "Ward 5",
+                "slug": "ward-5"
+              },
+              {
+                "name": "Ward 6",
+                "slug": "ward-6"
+              },
+              {
+                "name": "Ward 7",
+                "slug": "ward-7"
+              },
+              {
+                "name": "Ward 8",
+                "slug": "ward-8"
+              },
+              {
+                "name": "Ward 9",
+                "slug": "ward-9"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Parshuram",
+        "slug": "parshuram",
+        "unions": [
+          {
+            "name": "Mirzanagar",
+            "slug": "mirzanagar",
+            "wards": [
+              {
+                "name": "Ward 1",
+                "slug": "ward-1"
+              },
+              {
+                "name": "Ward 2",
+                "slug": "ward-2"
+              },
+              {
+                "name": "Ward 3",
+                "slug": "ward-3"
+              },
+              {
+                "name": "Ward 4",
+                "slug": "ward-4"
+              },
+              {
+                "name": "Ward 5",
+                "slug": "ward-5"
+              },
+              {
+                "name": "Ward 6",
+                "slug": "ward-6"
+              },
+              {
+                "name": "Ward 7",
+                "slug": "ward-7"
+              },
+              {
+                "name": "Ward 8",
+                "slug": "ward-8"
+              },
+              {
+                "name": "Ward 9",
+                "slug": "ward-9"
+              }
+            ]
+          },
+          {
+            "name": "Chitholia",
+            "slug": "chitholia",
+            "wards": [
+              {
+                "name": "Ward 1",
+                "slug": "ward-1"
+              },
+              {
+                "name": "Ward 2",
+                "slug": "ward-2"
+              },
+              {
+                "name": "Ward 3",
+                "slug": "ward-3"
+              },
+              {
+                "name": "Ward 4",
+                "slug": "ward-4"
+              },
+              {
+                "name": "Ward 5",
+                "slug": "ward-5"
+              },
+              {
+                "name": "Ward 6",
+                "slug": "ward-6"
+              },
+              {
+                "name": "Ward 7",
+                "slug": "ward-7"
+              },
+              {
+                "name": "Ward 8",
+                "slug": "ward-8"
+              },
+              {
+                "name": "Ward 9",
+                "slug": "ward-9"
+              }
+            ]
+          },
+          {
+            "name": "Parshuram",
+            "slug": "parshuram",
+            "wards": [
+              {
+                "name": "Ward 1",
+                "slug": "ward-1"
+              },
+              {
+                "name": "Ward 2",
+                "slug": "ward-2"
+              },
+              {
+                "name": "Ward 3",
+                "slug": "ward-3"
+              },
+              {
+                "name": "Ward 4",
+                "slug": "ward-4"
+              },
+              {
+                "name": "Ward 5",
+                "slug": "ward-5"
+              },
+              {
+                "name": "Ward 6",
+                "slug": "ward-6"
+              },
+              {
+                "name": "Ward 7",
+                "slug": "ward-7"
+              },
+              {
+                "name": "Ward 8",
+                "slug": "ward-8"
+              },
+              {
+                "name": "Ward 9",
+                "slug": "ward-9"
+              }
+            ]
+          },
+          {
+            "name": "Boxmahammad",
+            "slug": "boxmahammad",
+            "wards": [
+              {
+                "name": "Ward 1",
+                "slug": "ward-1"
+              },
+              {
+                "name": "Ward 2",
+                "slug": "ward-2"
+              },
+              {
+                "name": "Ward 3",
+                "slug": "ward-3"
+              },
+              {
+                "name": "Ward 4",
+                "slug": "ward-4"
+              },
+              {
+                "name": "Ward 5",
+                "slug": "ward-5"
+              },
+              {
+                "name": "Ward 6",
+                "slug": "ward-6"
+              },
+              {
+                "name": "Ward 7",
+                "slug": "ward-7"
+              },
+              {
+                "name": "Ward 8",
+                "slug": "ward-8"
+              },
+              {
+                "name": "Ward 9",
+                "slug": "ward-9"
+              }
+            ]
+          },
+          {
+            "name": "Satkuchia",
+            "slug": "satkuchia",
+            "wards": [
+              {
+                "name": "Ward 1",
+                "slug": "ward-1"
+              },
+              {
+                "name": "Ward 2",
+                "slug": "ward-2"
+              },
+              {
+                "name": "Ward 3",
+                "slug": "ward-3"
+              },
+              {
+                "name": "Ward 4",
+                "slug": "ward-4"
+              },
+              {
+                "name": "Ward 5",
+                "slug": "ward-5"
+              },
+              {
+                "name": "Ward 6",
+                "slug": "ward-6"
+              },
+              {
+                "name": "Ward 7",
+                "slug": "ward-7"
+              },
+              {
+                "name": "Ward 8",
+                "slug": "ward-8"
+              },
+              {
+                "name": "Ward 9",
+                "slug": "ward-9"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
