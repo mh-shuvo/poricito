@@ -75,7 +75,25 @@ class MemorialController extends Controller
      */
     public function show(Memorial $memorial): View
     {
-        $this->authorize('view', $memorial);
+        // Log current user and memorial for debugging
+        \Log::info('Contributor Memorial Show Attempt', [
+            'user_id' => auth()->id(),
+            'user_role' => auth()->user()->role,
+            'memorial_id' => $memorial->id,
+            'memorial_user_id' => $memorial->user_id,
+        ]);
+        
+        try {
+            $this->authorize('view', $memorial);
+        } catch (\Illuminate\Auth\Access\AuthorizationException $e) {
+            \Log::error('Authorization failed in MemorialController::show', [
+                'user_id' => auth()->id(),
+                'memorial_id' => $memorial->id,
+                'message' => $e->getMessage(),
+            ]);
+            throw $e;
+        }
+        
         $memorial->load(['ward.union.thana.district', 'photos']);
         
         return view('contributor.memorials.show', compact('memorial'));

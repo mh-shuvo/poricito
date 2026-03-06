@@ -4,6 +4,7 @@ namespace App\Policies;
 
 use App\Models\Memorial;
 use App\Models\User;
+use Illuminate\Support\Facades\Log;
 
 class MemorialPolicy
 {
@@ -12,7 +13,21 @@ class MemorialPolicy
      */
     public function view(User $user, Memorial $memorial): bool
     {
-        return $user->isAdmin() || $user->id === $memorial->user_id;
+        // Log for debugging in production
+        Log::info('MemorialPolicy::view check', [
+            'user_id' => $user->id,
+            'user_role' => $user->role,
+            'memorial_id' => $memorial->id,
+            'memorial_user_id' => $memorial->user_id,
+            'is_admin' => $user->isAdmin(),
+            'is_owner' => $user->id === $memorial->user_id,
+        ]);
+        
+        $result = $user->isAdmin() || $user->id === $memorial->user_id;
+        
+        Log::info('MemorialPolicy::view result', ['allowed' => $result]);
+        
+        return $result;
     }
 
     /**
