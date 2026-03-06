@@ -20,10 +20,11 @@ class MemorialPolicy
             'memorial_id' => $memorial->id,
             'memorial_user_id' => $memorial->user_id,
             'is_admin' => $user->isAdmin(),
-            'is_owner' => $user->id === $memorial->user_id,
+            'is_owner' => (int)$user->id === (int)$memorial->user_id,
         ]);
         
-        $result = $user->isAdmin() || $user->id === $memorial->user_id;
+        // Use loose comparison to handle string/int mismatch
+        $result = $user->isAdmin() || (int)$user->id === (int)$memorial->user_id;
         
         Log::info('MemorialPolicy::view result', ['allowed' => $result]);
         
@@ -39,7 +40,7 @@ class MemorialPolicy
             return true;
         }
 
-        return $user->id === $memorial->user_id && 
+        return (int)$user->id === (int)$memorial->user_id && 
                in_array($memorial->status, ['pending', 'rejected']);
     }
 
@@ -48,6 +49,6 @@ class MemorialPolicy
      */
     public function delete(User $user, Memorial $memorial): bool
     {
-        return $user->isAdmin() || $user->id === $memorial->user_id;
+        return $user->isAdmin() || (int)$user->id === (int)$memorial->user_id;
     }
 }

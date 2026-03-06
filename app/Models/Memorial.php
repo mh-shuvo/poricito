@@ -24,6 +24,9 @@ class Memorial extends Model
     ];
 
     protected $casts = [
+        'user_id' => 'integer',
+        'ward_id' => 'integer',
+        'updated_by_admin_id' => 'integer',
         'date_of_birth' => 'date',
         'date_of_death' => 'date',
     ];
